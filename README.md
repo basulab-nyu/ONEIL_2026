@@ -1,6 +1,6 @@
 This repository contains the code that has been used for ex-vivo data analysis and processing for the following publication: **Temporal Coding rather than Circuit Wiring allows Hippocampal CA3 Neurons to Dynamically Distinguish Different Cortical Inputs** <br>
 
-All code used to process and analyze the in-vivo data for this publication can be found in the following repository: https://github.com/lukearend/ONeil_2026 <br>
+All code used to process and analyze the in-vivo data (Fig. 6) for this publication can be found in the following repository: https://github.com/lukearend/ONeil_2026 <br>
 
 All raw ex-vivo data is available upon request to Jayeeta Basu jayeeta.basu@nyulangone.org <br>
 
