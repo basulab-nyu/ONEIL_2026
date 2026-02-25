@@ -2,6 +2,8 @@ This repository contains the code that has been used for ex-vivo data analysis a
 
 All code used to process and analyze the in-vivo data for this publication can be found in the following repository: https://github.com/lukearend/ONeil_2026 <br>
 
+All raw ex-vivo data is available upon request to Jayeeta Basu jayeeta.basu@nyulangone.org <br>
+
 **System Requirements:** <br>
 &emsp; ipf files - IgorPro (Wavemetrics) 8.04 <br>
 &emsp;&emsp; Necessary Files: <br>
