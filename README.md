@@ -6,9 +6,11 @@ System Requirements:
   ipf files - IgorPro (Wavemetrics) 8.04
     Necessary Files:
       TaroTools - https://sites.google.com/site/tarotoolsregister/
+  
   m files - MATLAB (MATHWORKS) 2024a
     Necessary Files:
       abfload - https://www.mathworks.com/matlabcentral/fileexchange/6190-abfload
+  
   mat files - MATLAB (MATHWORKS) 2024a
 
 Description of Code Useage: 
